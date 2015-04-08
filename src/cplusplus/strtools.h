@@ -1,8 +1,6 @@
 /*
  * strtools.h
  *
- *  Created on: 2014年1月17日
- *      Author: zhangrui04
  */
 
 #ifndef STRTOOLS_H_

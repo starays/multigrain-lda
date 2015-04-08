@@ -1,8 +1,6 @@
 /*
  * corpus.h
  *
- *  Created on: 2014年1月17日
- *      Author: zhangrui04
  */
 
 #ifndef CORPUS_H_

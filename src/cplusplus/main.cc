@@ -1,8 +1,6 @@
 /*
  * main.cc
  *
- *  Created on: 2014年1月22日
- *      Author: zhangrui04
  */
 #include <cstdio>
 

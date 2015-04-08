@@ -1,8 +1,6 @@
 /*
  * model.h
  *
- *  Created on: 2014年1月17日
- *      Author: zhangrui04
  */
 
 #ifndef MODEL_H_

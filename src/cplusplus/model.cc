@@ -1,8 +1,6 @@
 /*
  * model.cc
  *
- *  Created on: 2014年1月2日
- *      Author: zhangrui04
  */
 #include <cstdio>
 #include <string>
